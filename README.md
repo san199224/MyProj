@@ -1,2 +1,1 @@
-# MyProj
-Sample projects that I have done 
+Collection of Programming problems that I have solved.
